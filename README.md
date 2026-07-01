@@ -1,25 +1,31 @@
 # React UI Web Replica
 
-This is a simple UI replica that I built while learning React. The goal of this project was to get comfortable with breaking a UI into reusable components, passing data using props, and styling everything with Tailwind CSS.
+This project is one of the first UIs I built while learning React. I wanted to get comfortable with component-based development, passing data using props, and styling with Tailwind CSS.
 
-Although it's a small project, it helped me understand how React applications are structured and how different components work together.
+The project is a simple frontend UI with reusable components and dynamic cards. It doesn't have a backend—it's mainly a practice project to improve my React fundamentals.
 
-## Features
+## Live Demo
 
-- Built with React and Vite
-- Styled using Tailwind CSS
-- Reusable components
-- Dynamic cards rendered using props
-- Clean and responsive layout
+🔗 https://ui-react-web-replica.vercel.app/
 
 ## Tech Stack
 
 - React
-- JavaScript
-- Tailwind CSS
 - Vite
+- Tailwind CSS
+- JavaScript
 
-## Getting Started
+## What I Learned
+
+While building this project, I practiced:
+
+- Creating reusable React components
+- Passing data through props
+- Rendering lists using `.map()`
+- Structuring a React project
+- Building layouts with Tailwind CSS
+
+## Running the Project
 
 Clone the repository:
 
@@ -39,25 +45,13 @@ Start the development server:
 npm run dev
 ```
 
-## What I Learned
-
-While building this project, I got hands-on experience with:
-
-- Creating and organizing React components
-- Passing data using props
-- Rendering lists with `.map()`
-- Building layouts with Tailwind CSS
-- Structuring a React project
-
 ## Future Improvements
 
-- Make the page fully responsive
-- Add hover animations
-- Improve the card design
-- Add more sections and interactive elements
+- Make the UI fully responsive
+- Add animations and hover effects
+- Improve the overall design
+- Build more sections to make it feel like a complete landing page
 
-## Author
+---
 
-**Shivangi Shekhar**
-
-GitHub: https://github.com/berriesinabox
+This project is part of my React learning journey, and I'm looking forward to building more complex applications as I continue learning.
